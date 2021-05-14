@@ -1,0 +1,16 @@
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.exe
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.deps.json
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.runtimeconfig.json
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.runtimeconfig.dev.json
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.dll
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\ref\MovementManager.dll
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\bin\Debug\net5.0\MovementManager.pdb
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.csprojAssemblyReference.cache
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.AssemblyInfoInputs.cache
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.AssemblyInfo.cs
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.csproj.CoreCompileInputs.cache
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.dll
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\ref\MovementManager.dll
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.pdb
+C:\Users\selene.c.tucciarone\source\repos\DemoClass3\Movement\obj\Debug\net5.0\MovementManager.genruntimeconfig.cache
